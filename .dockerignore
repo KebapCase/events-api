@@ -1,0 +1,12 @@
+.git/
+.idea/
+target/
+logs/
+asciidoc/
+*.md
+*.iml
+.gitignore
+**/Dockerfile*
+**/swagger.json
+**/docker-compose*.yml
+**/application-*.properties
