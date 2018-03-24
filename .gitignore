@@ -1,0 +1,7 @@
+*.iml
+**/swagger.json
+target/
+.idea/
+logs/
+asciidoc/
+application-*.properties
